@@ -1,0 +1,7 @@
+node_modules
+output_js/*
+package-lock.json
+protractorFailuresReport/*
+testresults/*
+reports/*
+data/userData.json
